@@ -2,4 +2,4 @@ gunicorn
 Flask
 numpy
 pandas
-statsmodels.api
+statsmodels
